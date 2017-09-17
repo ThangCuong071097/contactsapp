@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\GitHub\contactsapp\contactsapp\contactsapp\obj\Debug\contactsapp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\contactsapp\contactsapp\contactsapp\obj\Debug\contactsapp.csproj.CoreCompileInputs.cache
